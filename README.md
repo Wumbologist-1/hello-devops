@@ -1,5 +1,6 @@
 # hello-devops
 
+
 A small DevOps proof-of-work project demonstrating containerization, Linux workflow, Docker Compose orchestration, and CI automation using GitHub Actions.
 
 ---
@@ -160,3 +161,4 @@ This project serves as:
 ## Author
 
 Wumbologist-1
+
